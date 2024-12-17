@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Travel Application</string>
+    <string name="introTitle">Путешествуй <font color='#3f95ec'>\n вместе </font> с нами </string>
+    <string name="subIntro">Наша компания обеспечит \n вас наилучшим комфортом</string>
+</resources>
