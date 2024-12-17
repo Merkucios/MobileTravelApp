@@ -100,7 +100,7 @@ CREATE TABLE Popular (
 
 ## API Supabase 🅰️
 API Supabase 🅰️
-If you're looking to explore the endpoints, you can check out the swagger.json file for detailed API documentation. [Link](https://github.com/Merkucios/MobileTravelApp/swagger.json)
+If you're looking to explore the endpoints, you can check out the swagger.json file for detailed API documentation. [Link]([https://github.com/Merkucios/MobileTravelApp/swagger.json](https://github.com/Merkucios/MobileTravelApp/blob/main/swagger.json))
 
 ## Let's create! ⭐
 
