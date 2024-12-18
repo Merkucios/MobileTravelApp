@@ -19,7 +19,7 @@ public class SupabaseClient {
     // Enter yout public API_KEY 
     // Example - JhbGciOiJIUzI1NiIsInR5cCfdksla313dfY ...
     private static final String API_KEY = "hack";
-
+    
     private static Retrofit retrofit;
     private static OkHttpClient okHttpClient;
 

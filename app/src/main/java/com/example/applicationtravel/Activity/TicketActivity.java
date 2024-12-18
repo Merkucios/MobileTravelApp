@@ -33,6 +33,14 @@ public class TicketActivity extends BaseActivity {
                 .load(object.getTourguidepic())
                 .into(binding.profile);
 
+        Log.d("TicketActivity", "Title: " + object.getTitle());
+        Log.d("TicketActivity", "Duration: " + object.getDuration());
+        Log.d("TicketActivity", "Date Tour: " + object.getDatetour());
+        Log.d("TicketActivity", "Time Tour: " + object.getTimetour());
+        Log.d("TicketActivity", "Tour Guide Name: " + object.getTourguidename());
+        Log.d("TicketActivity", "Pic URL: " + object.getPic());
+        Log.d("TicketActivity", "Tour Guide Pic URL: " + object.getTourguidepic());
+
         binding.backBtn.setOnClickListener(v -> finish());
         binding.titleTxt.setText(object.getTitle());
         binding.durationTxt.setText(object.getDuration());
